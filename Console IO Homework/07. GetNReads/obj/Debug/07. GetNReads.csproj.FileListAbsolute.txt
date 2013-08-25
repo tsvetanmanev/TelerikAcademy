@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\07. GetNReads\bin\Debug\_07.GetNReads.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\07. GetNReads\bin\Debug\_07.GetNReads.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\07. GetNReads\bin\Debug\_07.GetNReads.pdb
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\07. GetNReads\obj\Debug\_07.GetNReads.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\07. GetNReads\obj\Debug\_07.GetNReads.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\07. GetNReads\bin\Debug\_07.GetNReads.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\07. GetNReads\obj\Debug\_07.GetNReads.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\07. GetNReads\obj\Debug\_07.GetNReads.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\07. GetNReads\bin\Debug\_07.GetNReads.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\07. GetNReads\bin\Debug\_07.GetNReads.pdb

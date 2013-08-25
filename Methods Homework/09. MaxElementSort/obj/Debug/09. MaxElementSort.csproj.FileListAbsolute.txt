@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\09. MaxElementSort\bin\Debug\_09.MaxElementSort.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\09. MaxElementSort\bin\Debug\_09.MaxElementSort.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\09. MaxElementSort\bin\Debug\_09.MaxElementSort.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\09. MaxElementSort\obj\Debug\09. MaxElementSort.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\09. MaxElementSort\obj\Debug\_09.MaxElementSort.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\09. MaxElementSort\obj\Debug\_09.MaxElementSort.pdb

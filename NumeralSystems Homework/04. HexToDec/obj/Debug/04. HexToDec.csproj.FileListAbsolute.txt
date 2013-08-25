@@ -1,0 +1,6 @@
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\04. HexToDec\bin\Debug\_04.HexToDec.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\04. HexToDec\bin\Debug\_04.HexToDec.exe
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\04. HexToDec\bin\Debug\_04.HexToDec.pdb
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\04. HexToDec\obj\Debug\04. HexToDec.csprojResolveAssemblyReference.cache
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\04. HexToDec\obj\Debug\_04.HexToDec.exe
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\04. HexToDec\obj\Debug\_04.HexToDec.pdb

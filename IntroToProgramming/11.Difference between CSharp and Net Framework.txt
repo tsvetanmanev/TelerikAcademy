@@ -1,0 +1,5 @@
+CSharp is a very advanced programming language. There are many other different programming languages.
+
+.NET Framework is a whole environment for execution of programs. It has a powerful library, a programming model.
+
+It compromises of several buidling blocks - Common Language Runtime, Framework Class Library. .NET is a common execution engine for many programming languages C#, Visual Basic .NET, Managed C++ and many others.

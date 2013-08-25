@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\04. DivByFive\bin\Debug\_04.DivByFive.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\04. DivByFive\bin\Debug\_04.DivByFive.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\04. DivByFive\bin\Debug\_04.DivByFive.pdb
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\04. DivByFive\obj\Debug\_04.DivByFive.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\04. DivByFive\obj\Debug\_04.DivByFive.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\04. DivByFive\bin\Debug\_04.DivByFive.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\04. DivByFive\obj\Debug\_04.DivByFive.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\04. DivByFive\obj\Debug\_04.DivByFive.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\04. DivByFive\bin\Debug\_04.DivByFive.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\04. DivByFive\bin\Debug\_04.DivByFive.pdb

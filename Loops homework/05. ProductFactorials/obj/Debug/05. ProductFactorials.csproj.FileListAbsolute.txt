@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\05. ProductFactorials\bin\Debug\_05.ProductFactorials.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\05. ProductFactorials\bin\Debug\_05.ProductFactorials.exe
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\05. ProductFactorials\bin\Debug\_05.ProductFactorials.pdb
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\05. ProductFactorials\obj\Debug\_05.ProductFactorials.exe
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\05. ProductFactorials\obj\Debug\_05.ProductFactorials.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\05. ProductFactorials\bin\Debug\_05.ProductFactorials.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\05. ProductFactorials\obj\Debug\_05.ProductFactorials.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\05. ProductFactorials\obj\Debug\_05.ProductFactorials.pdb

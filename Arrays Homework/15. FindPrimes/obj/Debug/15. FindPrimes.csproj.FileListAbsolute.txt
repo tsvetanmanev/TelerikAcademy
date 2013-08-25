@@ -1,0 +1,10 @@
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\15. FindPrimes\bin\Debug\_15.FindPrimes.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\15. FindPrimes\bin\Debug\_15.FindPrimes.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\15. FindPrimes\bin\Debug\_15.FindPrimes.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\15. FindPrimes\obj\Debug\_15.FindPrimes.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\15. FindPrimes\obj\Debug\_15.FindPrimes.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\15. FindPrimes\bin\Debug\_15.FindPrimes.exe.config
+C:\Users\student\Downloads\Arrays Homework mage3\15. FindPrimes\obj\Debug\_15.FindPrimes.exe
+C:\Users\student\Downloads\Arrays Homework mage3\15. FindPrimes\obj\Debug\_15.FindPrimes.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\15. FindPrimes\bin\Debug\_15.FindPrimes.exe
+C:\Users\student\Downloads\Arrays Homework mage3\15. FindPrimes\bin\Debug\_15.FindPrimes.pdb

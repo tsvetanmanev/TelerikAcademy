@@ -1,0 +1,5 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\13. TasksMenu\bin\Debug\_13.TasksMenu.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\13. TasksMenu\bin\Debug\_13.TasksMenu.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\13. TasksMenu\bin\Debug\_13.TasksMenu.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\13. TasksMenu\obj\Debug\_13.TasksMenu.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\13. TasksMenu\obj\Debug\_13.TasksMenu.pdb

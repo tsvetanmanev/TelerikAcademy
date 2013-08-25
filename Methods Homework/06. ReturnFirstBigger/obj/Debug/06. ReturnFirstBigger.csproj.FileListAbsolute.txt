@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\06. ReturnFirstBigger\bin\Debug\_06.ReturnFirstBigger.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\06. ReturnFirstBigger\bin\Debug\_06.ReturnFirstBigger.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\06. ReturnFirstBigger\bin\Debug\_06.ReturnFirstBigger.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\06. ReturnFirstBigger\obj\Debug\06. ReturnFirstBigger.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\06. ReturnFirstBigger\obj\Debug\_06.ReturnFirstBigger.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\06. ReturnFirstBigger\obj\Debug\_06.ReturnFirstBigger.pdb

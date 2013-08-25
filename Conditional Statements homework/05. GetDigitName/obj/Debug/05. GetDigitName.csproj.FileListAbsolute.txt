@@ -1,0 +1,5 @@
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\05. GetDigitName\bin\Debug\_05.GetDigitName.exe.config
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\05. GetDigitName\bin\Debug\_05.GetDigitName.exe
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\05. GetDigitName\bin\Debug\_05.GetDigitName.pdb
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\05. GetDigitName\obj\Debug\_05.GetDigitName.exe
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\05. GetDigitName\obj\Debug\_05.GetDigitName.pdb

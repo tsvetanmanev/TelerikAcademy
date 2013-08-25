@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\02. CompareArray\obj\Debug\02. CompareArray.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\02. CompareArray\bin\Debug\_02.CompareArray.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\02. CompareArray\bin\Debug\_02.CompareArray.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\02. CompareArray\bin\Debug\_02.CompareArray.pdb
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\02. CompareArray\obj\Debug\_02.CompareArray.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\02. CompareArray\obj\Debug\_02.CompareArray.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\02. CompareArray\bin\Debug\_02.CompareArray.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\02. CompareArray\obj\Debug\_02.CompareArray.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\02. CompareArray\obj\Debug\_02.CompareArray.pdb

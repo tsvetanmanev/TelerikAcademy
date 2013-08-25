@@ -1,0 +1,5 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\14. VariableNumOfArgs\bin\Debug\_14.VariableNumOfArgs.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\14. VariableNumOfArgs\bin\Debug\_14.VariableNumOfArgs.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\14. VariableNumOfArgs\bin\Debug\_14.VariableNumOfArgs.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\14. VariableNumOfArgs\obj\Debug\_14.VariableNumOfArgs.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\14. VariableNumOfArgs\obj\Debug\_14.VariableNumOfArgs.pdb

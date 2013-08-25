@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\09. CatalanNum\bin\Debug\_09.CatalanNum.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\09. CatalanNum\bin\Debug\_09.CatalanNum.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\09. CatalanNum\bin\Debug\_09.CatalanNum.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\09. CatalanNum\obj\Debug\09. CatalanNum.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\09. CatalanNum\obj\Debug\_09.CatalanNum.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\09. CatalanNum\obj\Debug\_09.CatalanNum.pdb

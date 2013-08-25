@@ -1,0 +1,10 @@
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\12. AlphabetIndex\bin\Debug\_12.AlphabetIndex.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\12. AlphabetIndex\bin\Debug\_12.AlphabetIndex.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\12. AlphabetIndex\bin\Debug\_12.AlphabetIndex.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\12. AlphabetIndex\obj\Debug\_12.AlphabetIndex.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\12. AlphabetIndex\obj\Debug\_12.AlphabetIndex.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\12. AlphabetIndex\bin\Debug\_12.AlphabetIndex.exe.config
+C:\Users\student\Downloads\Arrays Homework mage3\12. AlphabetIndex\obj\Debug\_12.AlphabetIndex.exe
+C:\Users\student\Downloads\Arrays Homework mage3\12. AlphabetIndex\obj\Debug\_12.AlphabetIndex.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\12. AlphabetIndex\bin\Debug\_12.AlphabetIndex.exe
+C:\Users\student\Downloads\Arrays Homework mage3\12. AlphabetIndex\bin\Debug\_12.AlphabetIndex.pdb

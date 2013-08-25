@@ -1,0 +1,5 @@
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\03. DecToHex\bin\Debug\_03.DecToHex.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\03. DecToHex\bin\Debug\_03.DecToHex.exe
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\03. DecToHex\bin\Debug\_03.DecToHex.pdb
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\03. DecToHex\obj\Debug\_03.DecToHex.exe
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\03. DecToHex\obj\Debug\_03.DecToHex.pdb

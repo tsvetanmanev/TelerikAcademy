@@ -1,0 +1,5 @@
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\03. DayOfWeek\bin\Debug\_03.DayOfWeek.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\03. DayOfWeek\bin\Debug\_03.DayOfWeek.exe
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\03. DayOfWeek\bin\Debug\_03.DayOfWeek.pdb
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\03. DayOfWeek\obj\Debug\_03.DayOfWeek.exe
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\03. DayOfWeek\obj\Debug\_03.DayOfWeek.pdb

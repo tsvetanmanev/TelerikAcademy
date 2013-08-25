@@ -1,0 +1,6 @@
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\02. PositiveOrNegative\bin\Debug\_02.PositiveOrNegative.exe.config
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\02. PositiveOrNegative\bin\Debug\_02.PositiveOrNegative.exe
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\02. PositiveOrNegative\bin\Debug\_02.PositiveOrNegative.pdb
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\02. PositiveOrNegative\obj\Debug\02. PositiveOrNegative.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\02. PositiveOrNegative\obj\Debug\_02.PositiveOrNegative.exe
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\02. PositiveOrNegative\obj\Debug\_02.PositiveOrNegative.pdb

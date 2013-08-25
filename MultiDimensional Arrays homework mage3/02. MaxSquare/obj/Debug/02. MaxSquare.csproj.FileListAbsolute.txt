@@ -1,0 +1,5 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\02. MaxSquare\bin\Debug\_02.MaxSquare.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\02. MaxSquare\bin\Debug\_02.MaxSquare.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\02. MaxSquare\bin\Debug\_02.MaxSquare.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\02. MaxSquare\obj\Debug\_02.MaxSquare.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\02. MaxSquare\obj\Debug\_02.MaxSquare.pdb

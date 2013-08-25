@@ -1,0 +1,5 @@
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\02. PrintRandomNum\bin\Debug\_02.PrintRandomNum.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\02. PrintRandomNum\bin\Debug\_02.PrintRandomNum.exe
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\02. PrintRandomNum\bin\Debug\_02.PrintRandomNum.pdb
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\02. PrintRandomNum\obj\Debug\_02.PrintRandomNum.exe
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\02. PrintRandomNum\obj\Debug\_02.PrintRandomNum.pdb

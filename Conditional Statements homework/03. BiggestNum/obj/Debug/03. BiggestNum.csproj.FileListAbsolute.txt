@@ -1,0 +1,6 @@
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\03. BiggestNum\bin\Debug\_03.BiggestNum.exe.config
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\03. BiggestNum\obj\Debug\03. BiggestNum.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\03. BiggestNum\bin\Debug\_03.BiggestNum.exe
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\03. BiggestNum\bin\Debug\_03.BiggestNum.pdb
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\03. BiggestNum\obj\Debug\_03.BiggestNum.exe
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\03. BiggestNum\obj\Debug\_03.BiggestNum.pdb

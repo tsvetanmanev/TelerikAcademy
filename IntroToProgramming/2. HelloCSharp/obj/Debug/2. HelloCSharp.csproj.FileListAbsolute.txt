@@ -1,0 +1,6 @@
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\2. HelloCSharp\bin\Debug\_2.HelloCSharp.exe.config
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\2. HelloCSharp\bin\Debug\_2.HelloCSharp.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\2. HelloCSharp\bin\Debug\_2.HelloCSharp.pdb
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\2. HelloCSharp\obj\Debug\2. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\2. HelloCSharp\obj\Debug\_2.HelloCSharp.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\2. HelloCSharp\obj\Debug\_2.HelloCSharp.pdb

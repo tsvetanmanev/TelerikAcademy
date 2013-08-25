@@ -1,0 +1,6 @@
+C:\Users\student\Downloads\Arrays Homework mage3\20. GenerateVariations\bin\Debug\_20.GenerateVariations.exe.config
+C:\Users\student\Downloads\Arrays Homework mage3\20. GenerateVariations\bin\Debug\_20.GenerateVariations.exe
+C:\Users\student\Downloads\Arrays Homework mage3\20. GenerateVariations\bin\Debug\_20.GenerateVariations.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\20. GenerateVariations\obj\Debug\20. GenerateVariations.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Arrays Homework mage3\20. GenerateVariations\obj\Debug\_20.GenerateVariations.exe
+C:\Users\student\Downloads\Arrays Homework mage3\20. GenerateVariations\obj\Debug\_20.GenerateVariations.pdb

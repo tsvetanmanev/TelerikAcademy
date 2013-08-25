@@ -1,0 +1,3 @@
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\4.PrintNames\bin\Debug\4.PrintNames.exe.config
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\4.PrintNames\obj\Debug\4.PrintNames.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\4.PrintNames\obj\Debug\4.PrintNames.pdb

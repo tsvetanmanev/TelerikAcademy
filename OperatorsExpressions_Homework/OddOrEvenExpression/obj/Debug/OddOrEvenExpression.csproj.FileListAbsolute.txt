@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\OddOrEvenExpression\bin\Debug\OddOrEvenExpression.exe.config
+c:\users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\OddOrEvenExpression\obj\Debug\OddOrEvenExpression.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\OddOrEvenExpression\obj\Debug\OddOrEvenExpression.Properties.Resources.resources
+c:\users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\OddOrEvenExpression\obj\Debug\OddOrEvenExpression.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\OddOrEvenExpression\bin\Debug\OddOrEvenExpression.exe
+c:\users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\OddOrEvenExpression\bin\Debug\OddOrEvenExpression.pdb
+c:\users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\OddOrEvenExpression\obj\Debug\OddOrEvenExpression.exe
+c:\users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\OddOrEvenExpression\obj\Debug\OddOrEvenExpression.pdb

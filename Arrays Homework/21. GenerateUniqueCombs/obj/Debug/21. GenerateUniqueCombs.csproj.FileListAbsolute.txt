@@ -1,0 +1,5 @@
+C:\Users\student\Downloads\Arrays Homework mage3\21. GenerateUniqueCombs\bin\Debug\_21.GenerateUniqueCombs.exe.config
+C:\Users\student\Downloads\Arrays Homework mage3\21. GenerateUniqueCombs\bin\Debug\_21.GenerateUniqueCombs.exe
+C:\Users\student\Downloads\Arrays Homework mage3\21. GenerateUniqueCombs\bin\Debug\_21.GenerateUniqueCombs.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\21. GenerateUniqueCombs\obj\Debug\_21.GenerateUniqueCombs.exe
+C:\Users\student\Downloads\Arrays Homework mage3\21. GenerateUniqueCombs\obj\Debug\_21.GenerateUniqueCombs.pdb

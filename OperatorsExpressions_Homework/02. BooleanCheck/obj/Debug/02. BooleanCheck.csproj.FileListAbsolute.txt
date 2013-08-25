@@ -1,0 +1,5 @@
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\02. BooleanCheck\bin\Debug\_02.BooleanCheck.exe.config
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\02. BooleanCheck\bin\Debug\_02.BooleanCheck.exe
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\02. BooleanCheck\bin\Debug\_02.BooleanCheck.pdb
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\02. BooleanCheck\obj\Debug\_02.BooleanCheck.exe
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\02. BooleanCheck\obj\Debug\_02.BooleanCheck.pdb

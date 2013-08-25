@@ -1,0 +1,6 @@
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\04. RepetitionTimes\bin\Debug\_04.RepetitionTimes.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\04. RepetitionTimes\bin\Debug\_04.RepetitionTimes.exe
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\04. RepetitionTimes\bin\Debug\_04.RepetitionTimes.pdb
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\04. RepetitionTimes\obj\Debug\04. RepetitionTimes.csprojResolveAssemblyReference.cache
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\04. RepetitionTimes\obj\Debug\_04.RepetitionTimes.exe
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\04. RepetitionTimes\obj\Debug\_04.RepetitionTimes.pdb

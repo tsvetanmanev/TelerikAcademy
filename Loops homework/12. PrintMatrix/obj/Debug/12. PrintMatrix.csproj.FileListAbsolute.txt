@@ -1,0 +1,5 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\12. PrintMatrix\bin\Debug\_12.PrintMatrix.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\12. PrintMatrix\bin\Debug\_12.PrintMatrix.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\12. PrintMatrix\bin\Debug\_12.PrintMatrix.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\12. PrintMatrix\obj\Debug\_12.PrintMatrix.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\12. PrintMatrix\obj\Debug\_12.PrintMatrix.pdb

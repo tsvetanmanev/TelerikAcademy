@@ -1,0 +1,6 @@
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\01. DecimalToBin\bin\Debug\_01.DecimalToBin.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\01. DecimalToBin\obj\Debug\01. DecimalToBin.csprojResolveAssemblyReference.cache
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\01. DecimalToBin\bin\Debug\_01.DecimalToBin.exe
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\01. DecimalToBin\bin\Debug\_01.DecimalToBin.pdb
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\01. DecimalToBin\obj\Debug\_01.DecimalToBin.exe
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\01. DecimalToBin\obj\Debug\_01.DecimalToBin.pdb

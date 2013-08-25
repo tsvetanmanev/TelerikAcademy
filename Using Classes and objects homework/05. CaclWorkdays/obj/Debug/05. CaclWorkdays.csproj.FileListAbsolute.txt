@@ -1,0 +1,5 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\05. CaclWorkdays\bin\Debug\_05.CaclWorkdays.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\05. CaclWorkdays\bin\Debug\_05.CaclWorkdays.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\05. CaclWorkdays\bin\Debug\_05.CaclWorkdays.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\05. CaclWorkdays\obj\Debug\_05.CaclWorkdays.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\05. CaclWorkdays\obj\Debug\_05.CaclWorkdays.pdb

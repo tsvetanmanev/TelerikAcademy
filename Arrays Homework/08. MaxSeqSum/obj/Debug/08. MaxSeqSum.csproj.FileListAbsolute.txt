@@ -1,0 +1,6 @@
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\08. MaxSeqSum\bin\Debug\_08.MaxSeqSum.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\08. MaxSeqSum\bin\Debug\_08.MaxSeqSum.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\08. MaxSeqSum\bin\Debug\_08.MaxSeqSum.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\08. MaxSeqSum\obj\Debug\_08.MaxSeqSum.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\08. MaxSeqSum\obj\Debug\_08.MaxSeqSum.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\08. MaxSeqSum\obj\Debug\08. MaxSeqSum.csprojResolveAssemblyReference.cache

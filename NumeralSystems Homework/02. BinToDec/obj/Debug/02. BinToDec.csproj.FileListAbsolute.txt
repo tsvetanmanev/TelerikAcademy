@@ -1,0 +1,6 @@
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\02. BinToDec\bin\Debug\_02.BinToDec.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\02. BinToDec\bin\Debug\_02.BinToDec.exe
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\02. BinToDec\bin\Debug\_02.BinToDec.pdb
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\02. BinToDec\obj\Debug\02. BinToDec.csprojResolveAssemblyReference.cache
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\02. BinToDec\obj\Debug\_02.BinToDec.exe
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\02. BinToDec\obj\Debug\_02.BinToDec.pdb

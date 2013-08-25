@@ -1,0 +1,6 @@
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxSumOfKElements\bin\Debug\_05.MaxSumOfKElements.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxSumOfKElements\bin\Debug\_05.MaxSumOfKElements.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxSumOfKElements\bin\Debug\_05.MaxSumOfKElements.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxSumOfKElements\obj\Debug\05. MaxSumOfKElements.csprojResolveAssemblyReference.cache
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxSumOfKElements\obj\Debug\_05.MaxSumOfKElements.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxSumOfKElements\obj\Debug\_05.MaxSumOfKElements.pdb

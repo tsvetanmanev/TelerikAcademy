@@ -1,0 +1,6 @@
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\9.FirstNumsOfSeq\bin\Debug\9.FirstNumsOfSeq.exe.config
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\9.FirstNumsOfSeq\bin\Debug\9.FirstNumsOfSeq.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\9.FirstNumsOfSeq\bin\Debug\9.FirstNumsOfSeq.pdb
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\9.FirstNumsOfSeq\obj\Debug\9.FirstNumsOfSeq.csprojResolveAssemblyReference.cache
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\9.FirstNumsOfSeq\obj\Debug\9.FirstNumsOfSeq.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\9.FirstNumsOfSeq\obj\Debug\9.FirstNumsOfSeq.pdb

@@ -1,0 +1,6 @@
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\07. CheckForPrime\bin\Debug\_07.CheckForPrime.exe.config
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\07. CheckForPrime\bin\Debug\_07.CheckForPrime.exe
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\07. CheckForPrime\bin\Debug\_07.CheckForPrime.pdb
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\07. CheckForPrime\obj\Debug\07. CheckForPrime.csprojResolveAssemblyReference.cache
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\07. CheckForPrime\obj\Debug\_07.CheckForPrime.exe
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\07. CheckForPrime\obj\Debug\_07.CheckForPrime.pdb

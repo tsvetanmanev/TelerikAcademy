@@ -1,0 +1,5 @@
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\3.PrintNumbers\bin\Debug\3.PrintNumbers.exe.config
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\3.PrintNumbers\bin\Debug\3.PrintNumbers.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\3.PrintNumbers\bin\Debug\3.PrintNumbers.pdb
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\3.PrintNumbers\obj\Debug\3.PrintNumbers.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\3.PrintNumbers\obj\Debug\3.PrintNumbers.pdb

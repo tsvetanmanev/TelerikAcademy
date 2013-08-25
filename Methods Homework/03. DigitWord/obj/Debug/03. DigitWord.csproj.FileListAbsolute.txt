@@ -1,0 +1,6 @@
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\03. DigitWord\bin\Debug\_03.DigitWord.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\03. DigitWord\bin\Debug\_03.DigitWord.exe
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\03. DigitWord\bin\Debug\_03.DigitWord.pdb
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\03. DigitWord\obj\Debug\03. DigitWord.csprojResolveAssemblyReference.cache
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\03. DigitWord\obj\Debug\_03.DigitWord.exe
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\03. DigitWord\obj\Debug\_03.DigitWord.pdb

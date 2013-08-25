@@ -1,0 +1,6 @@
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\05. BiggerNeighbors\bin\Debug\_05.BiggerNeighbors.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\05. BiggerNeighbors\bin\Debug\_05.BiggerNeighbors.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\05. BiggerNeighbors\bin\Debug\_05.BiggerNeighbors.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\05. BiggerNeighbors\obj\Debug\05. BiggerNeighbors.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\05. BiggerNeighbors\obj\Debug\_05.BiggerNeighbors.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\05. BiggerNeighbors\obj\Debug\_05.BiggerNeighbors.pdb

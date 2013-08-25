@@ -1,0 +1,1 @@
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\08. SignedIntToBinary\bin\Debug\_08.SignedIntToBinary.exe.config

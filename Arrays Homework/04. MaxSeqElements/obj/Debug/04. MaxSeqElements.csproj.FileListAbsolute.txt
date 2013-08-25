@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\04. MaxSeqElements\bin\Debug\_04.MaxSeqElements.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\04. MaxSeqElements\bin\Debug\_04.MaxSeqElements.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\04. MaxSeqElements\bin\Debug\_04.MaxSeqElements.pdb
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\04. MaxSeqElements\obj\Debug\_04.MaxSeqElements.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\04. MaxSeqElements\obj\Debug\_04.MaxSeqElements.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\04. MaxSeqElements\bin\Debug\_04.MaxSeqElements.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\04. MaxSeqElements\obj\Debug\_04.MaxSeqElements.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\04. MaxSeqElements\obj\Debug\_04.MaxSeqElements.pdb

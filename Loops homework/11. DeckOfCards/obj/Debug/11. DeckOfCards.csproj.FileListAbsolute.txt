@@ -1,0 +1,5 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\11. DeckOfCards\bin\Debug\_11.DeckOfCards.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\11. DeckOfCards\bin\Debug\_11.DeckOfCards.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\11. DeckOfCards\bin\Debug\_11.DeckOfCards.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\11. DeckOfCards\obj\Debug\_11.DeckOfCards.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\11. DeckOfCards\obj\Debug\_11.DeckOfCards.pdb

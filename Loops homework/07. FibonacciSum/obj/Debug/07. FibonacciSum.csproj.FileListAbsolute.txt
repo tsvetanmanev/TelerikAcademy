@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\07. FibonacciSum\bin\Debug\_07.FibonacciSum.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\07. FibonacciSum\bin\Debug\_07.FibonacciSum.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\07. FibonacciSum\bin\Debug\_07.FibonacciSum.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\07. FibonacciSum\obj\Debug\07. FibonacciSum.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\07. FibonacciSum\obj\Debug\_07.FibonacciSum.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\07. FibonacciSum\obj\Debug\_07.FibonacciSum.pdb

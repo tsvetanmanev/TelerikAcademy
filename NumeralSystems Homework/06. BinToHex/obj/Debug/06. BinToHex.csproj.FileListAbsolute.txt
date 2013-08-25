@@ -1,0 +1,6 @@
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\06. BinToHex\bin\Debug\_06.BinToHex.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\06. BinToHex\bin\Debug\_06.BinToHex.exe
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\06. BinToHex\bin\Debug\_06.BinToHex.pdb
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\06. BinToHex\obj\Debug\06. BinToHex.csprojResolveAssemblyReference.cache
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\06. BinToHex\obj\Debug\_06.BinToHex.exe
+c:\users\manev\documents\visual studio 2012\Projects\NumeralSystems Homework\06. BinToHex\obj\Debug\_06.BinToHex.pdb

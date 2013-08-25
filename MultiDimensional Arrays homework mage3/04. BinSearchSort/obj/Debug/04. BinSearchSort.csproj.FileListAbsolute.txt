@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\04. BinSearchSort\bin\Debug\_04.BinSearchSort.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\04. BinSearchSort\obj\Debug\04. BinSearchSort.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\04. BinSearchSort\bin\Debug\_04.BinSearchSort.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\04. BinSearchSort\bin\Debug\_04.BinSearchSort.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\04. BinSearchSort\obj\Debug\_04.BinSearchSort.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\04. BinSearchSort\obj\Debug\_04.BinSearchSort.pdb

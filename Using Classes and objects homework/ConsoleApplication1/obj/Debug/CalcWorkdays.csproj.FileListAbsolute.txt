@@ -1,0 +1,3 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

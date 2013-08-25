@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

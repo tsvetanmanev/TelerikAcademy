@@ -1,0 +1,10 @@
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\5. CharVarUnicode\bin\Debug\_5.CharVarUnicode.exe.config
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\5. CharVarUnicode\bin\Debug\_5.CharVarUnicode.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\5. CharVarUnicode\bin\Debug\_5.CharVarUnicode.pdb
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\5. CharVarUnicode\obj\Debug\_5.CharVarUnicode.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\5. CharVarUnicode\obj\Debug\_5.CharVarUnicode.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\5. CharVarUnicode\bin\Debug\_5.CharVarUnicode.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\5. CharVarUnicode\obj\Debug\_5.CharVarUnicode.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\5. CharVarUnicode\obj\Debug\_5.CharVarUnicode.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\5. CharVarUnicode\bin\Debug\_5.CharVarUnicode.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\5. CharVarUnicode\bin\Debug\_5.CharVarUnicode.pdb

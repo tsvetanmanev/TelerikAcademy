@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\03. LongestSequence\bin\Debug\_03.LongestSequence.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\03. LongestSequence\bin\Debug\_03.LongestSequence.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\03. LongestSequence\bin\Debug\_03.LongestSequence.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\03. LongestSequence\obj\Debug\03. LongestSequence.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\03. LongestSequence\obj\Debug\_03.LongestSequence.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\03. LongestSequence\obj\Debug\_03.LongestSequence.pdb

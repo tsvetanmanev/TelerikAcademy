@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\10. FibonacciSeq\bin\Debug\_10.FibonacciSeq.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\10. FibonacciSeq\obj\Debug\10. FibonacciSeq.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\10. FibonacciSeq\bin\Debug\_10.FibonacciSeq.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\10. FibonacciSeq\bin\Debug\_10.FibonacciSeq.pdb
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\10. FibonacciSeq\obj\Debug\_10.FibonacciSeq.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\10. FibonacciSeq\obj\Debug\_10.FibonacciSeq.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10. FibonacciSeq\bin\Debug\_10.FibonacciSeq.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10. FibonacciSeq\obj\Debug\_10.FibonacciSeq.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10. FibonacciSeq\obj\Debug\_10.FibonacciSeq.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10. FibonacciSeq\bin\Debug\_10.FibonacciSeq.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10. FibonacciSeq\bin\Debug\_10.FibonacciSeq.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10. FibonacciSeq\obj\Debug\10. FibonacciSeq.csprojResolveAssemblyReference.cache

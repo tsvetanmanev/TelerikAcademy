@@ -1,0 +1,6 @@
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\3. CompareFloatNumbers\bin\Debug\_3.CompareFloatNumbers.exe.config
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\3. CompareFloatNumbers\bin\Debug\_3.CompareFloatNumbers.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\3. CompareFloatNumbers\bin\Debug\_3.CompareFloatNumbers.pdb
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\3. CompareFloatNumbers\obj\Debug\3. CompareFloatNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\3. CompareFloatNumbers\obj\Debug\_3.CompareFloatNumbers.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\3. CompareFloatNumbers\obj\Debug\_3.CompareFloatNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\04. CalcTriangleArea\bin\Debug\_04.CalcTriangleArea.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\04. CalcTriangleArea\bin\Debug\_04.CalcTriangleArea.exe
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\04. CalcTriangleArea\bin\Debug\_04.CalcTriangleArea.pdb
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\04. CalcTriangleArea\obj\Debug\04. CalcTriangleArea.csprojResolveAssemblyReference.cache
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\04. CalcTriangleArea\obj\Debug\_04.CalcTriangleArea.exe
+c:\users\manev\documents\visual studio 2012\Projects\Using Classes and objects homework\04. CalcTriangleArea\obj\Debug\_04.CalcTriangleArea.pdb

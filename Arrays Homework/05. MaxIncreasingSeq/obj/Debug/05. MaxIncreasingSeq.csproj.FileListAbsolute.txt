@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\05. MaxIncreasingSeq\bin\Debug\_05.MaxIncreasingSeq.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\05. MaxIncreasingSeq\obj\Debug\05. MaxIncreasingSeq.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\05. MaxIncreasingSeq\bin\Debug\_05.MaxIncreasingSeq.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\05. MaxIncreasingSeq\bin\Debug\_05.MaxIncreasingSeq.pdb
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\05. MaxIncreasingSeq\obj\Debug\_05.MaxIncreasingSeq.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\05. MaxIncreasingSeq\obj\Debug\_05.MaxIncreasingSeq.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxIncreasingSeq\bin\Debug\_05.MaxIncreasingSeq.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxIncreasingSeq\obj\Debug\_05.MaxIncreasingSeq.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxIncreasingSeq\obj\Debug\_05.MaxIncreasingSeq.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxIncreasingSeq\bin\Debug\_05.MaxIncreasingSeq.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxIncreasingSeq\bin\Debug\_05.MaxIncreasingSeq.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\05. MaxIncreasingSeq\obj\Debug\05. MaxIncreasingSeq.csprojResolveAssemblyReference.cache

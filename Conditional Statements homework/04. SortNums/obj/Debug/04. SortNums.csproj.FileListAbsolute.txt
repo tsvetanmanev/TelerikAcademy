@@ -1,0 +1,6 @@
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\04. SortNums\bin\Debug\_04.SortNums.exe.config
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\04. SortNums\bin\Debug\_04.SortNums.exe
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\04. SortNums\bin\Debug\_04.SortNums.pdb
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\04. SortNums\obj\Debug\04. SortNums.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\04. SortNums\obj\Debug\_04.SortNums.exe
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\04. SortNums\obj\Debug\_04.SortNums.pdb

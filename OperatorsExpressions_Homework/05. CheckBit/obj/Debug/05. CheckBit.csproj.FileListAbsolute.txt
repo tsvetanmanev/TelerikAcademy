@@ -1,0 +1,6 @@
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\05. CheckBit\bin\Debug\_05.CheckBit.exe.config
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\05. CheckBit\bin\Debug\_05.CheckBit.exe
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\05. CheckBit\bin\Debug\_05.CheckBit.pdb
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\05. CheckBit\obj\Debug\05. CheckBit.csprojResolveAssemblyReference.cache
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\05. CheckBit\obj\Debug\_05.CheckBit.exe
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\05. CheckBit\obj\Debug\_05.CheckBit.pdb

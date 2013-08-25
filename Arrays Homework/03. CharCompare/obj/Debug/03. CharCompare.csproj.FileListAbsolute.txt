@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\03. CharCompare\bin\Debug\_03.CharCompare.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\03. CharCompare\obj\Debug\03. CharCompare.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\03. CharCompare\bin\Debug\_03.CharCompare.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\03. CharCompare\bin\Debug\_03.CharCompare.pdb
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\03. CharCompare\obj\Debug\_03.CharCompare.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\03. CharCompare\obj\Debug\_03.CharCompare.pdb

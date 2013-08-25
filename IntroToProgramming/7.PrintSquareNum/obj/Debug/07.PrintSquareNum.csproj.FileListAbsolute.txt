@@ -1,0 +1,3 @@
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\7.PrintSquareNum\bin\Debug\7.PrintSquareNum.exe.config
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\7.PrintSquareNum\obj\Debug\7.PrintSquareNum.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\7.PrintSquareNum\obj\Debug\7.PrintSquareNum.pdb

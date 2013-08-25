@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\10. SubsetSum\obj\Debug\09. SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\10. SubsetSum\bin\Debug\_10.SubsetSum.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\10. SubsetSum\bin\Debug\_10.SubsetSum.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\10. SubsetSum\bin\Debug\_10.SubsetSum.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\10. SubsetSum\obj\Debug\_10.SubsetSum.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\10. SubsetSum\obj\Debug\_10.SubsetSum.pdb

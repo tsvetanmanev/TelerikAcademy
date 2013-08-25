@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\06. ComplexProduct\bin\Debug\_06.ComplexProduct.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\06. ComplexProduct\bin\Debug\_06.ComplexProduct.exe
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\06. ComplexProduct\bin\Debug\_06.ComplexProduct.pdb
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\06. ComplexProduct\obj\Debug\_06.ComplexProduct.exe
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\06. ComplexProduct\obj\Debug\_06.ComplexProduct.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\06. ComplexProduct\bin\Debug\_06.ComplexProduct.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\06. ComplexProduct\obj\Debug\_06.ComplexProduct.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\06. ComplexProduct\obj\Debug\_06.ComplexProduct.pdb

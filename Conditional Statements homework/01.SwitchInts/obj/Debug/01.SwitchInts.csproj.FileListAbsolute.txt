@@ -1,0 +1,9 @@
+c:\users\student-pc\documents\visual studio 2012\Projects\Conditional Statements homework\01.SwitchInts\bin\Debug\01.SwitchInts.exe.config
+c:\users\student-pc\documents\visual studio 2012\Projects\Conditional Statements homework\01.SwitchInts\bin\Debug\01.SwitchInts.exe
+c:\users\student-pc\documents\visual studio 2012\Projects\Conditional Statements homework\01.SwitchInts\bin\Debug\01.SwitchInts.pdb
+c:\users\student-pc\documents\visual studio 2012\Projects\Conditional Statements homework\01.SwitchInts\obj\Debug\01.SwitchInts.csprojResolveAssemblyReference.cache
+c:\users\student-pc\documents\visual studio 2012\Projects\Conditional Statements homework\01.SwitchInts\obj\Debug\01.SwitchInts.exe
+c:\users\student-pc\documents\visual studio 2012\Projects\Conditional Statements homework\01.SwitchInts\obj\Debug\01.SwitchInts.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\01.SwitchInts\bin\Debug\01.SwitchInts.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\01.SwitchInts\obj\Debug\01.SwitchInts.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\01.SwitchInts\obj\Debug\01.SwitchInts.pdb

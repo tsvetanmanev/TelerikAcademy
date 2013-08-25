@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10.SumWithAccuracy\bin\Debug\10.SumWithAccuracy.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10.SumWithAccuracy\bin\Debug\10.SumWithAccuracy.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10.SumWithAccuracy\bin\Debug\10.SumWithAccuracy.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10.SumWithAccuracy\obj\Debug\10.SumWithAccuracy.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10.SumWithAccuracy\obj\Debug\10.SumWithAccuracy.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10.SumWithAccuracy\obj\Debug\10.SumWithAccuracy.pdb

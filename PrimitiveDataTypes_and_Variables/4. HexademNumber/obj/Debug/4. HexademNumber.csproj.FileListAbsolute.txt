@@ -1,0 +1,10 @@
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\4. HexademNumber\bin\Debug\_4.HexademNumber.exe.config
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\4. HexademNumber\bin\Debug\_4.HexademNumber.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\4. HexademNumber\bin\Debug\_4.HexademNumber.pdb
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\4. HexademNumber\obj\Debug\_4.HexademNumber.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\4. HexademNumber\obj\Debug\_4.HexademNumber.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\4. HexademNumber\bin\Debug\_4.HexademNumber.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\4. HexademNumber\obj\Debug\_4.HexademNumber.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\4. HexademNumber\obj\Debug\_4.HexademNumber.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\4. HexademNumber\bin\Debug\_4.HexademNumber.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\4. HexademNumber\bin\Debug\_4.HexademNumber.pdb

@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\02. PrintNotDivisible\bin\Debug\_02.PrintNotDivisible.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\02. PrintNotDivisible\bin\Debug\_02.PrintNotDivisible.exe
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\02. PrintNotDivisible\bin\Debug\_02.PrintNotDivisible.pdb
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\02. PrintNotDivisible\obj\Debug\_02.PrintNotDivisible.exe
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\02. PrintNotDivisible\obj\Debug\_02.PrintNotDivisible.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\02. PrintNotDivisible\bin\Debug\_02.PrintNotDivisible.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\02. PrintNotDivisible\obj\Debug\_02.PrintNotDivisible.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\02. PrintNotDivisible\obj\Debug\_02.PrintNotDivisible.pdb

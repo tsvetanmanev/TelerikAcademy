@@ -1,0 +1,6 @@
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\02. GetMaxNum\bin\Debug\_02.GetMaxNum.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\02. GetMaxNum\bin\Debug\_02.GetMaxNum.exe
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\02. GetMaxNum\bin\Debug\_02.GetMaxNum.pdb
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\02. GetMaxNum\obj\Debug\02. GetMaxNum.csprojResolveAssemblyReference.cache
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\02. GetMaxNum\obj\Debug\_02.GetMaxNum.exe
+c:\users\manev\documents\visual studio 2012\Projects\Methods Homework mage3\02. GetMaxNum\obj\Debug\_02.GetMaxNum.pdb

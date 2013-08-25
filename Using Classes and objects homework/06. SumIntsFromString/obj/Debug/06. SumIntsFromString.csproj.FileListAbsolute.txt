@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\06. SumIntsFromString\bin\Debug\_06.SumIntsFromString.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\06. SumIntsFromString\bin\Debug\_06.SumIntsFromString.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\06. SumIntsFromString\bin\Debug\_06.SumIntsFromString.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\06. SumIntsFromString\obj\Debug\06. SumIntsFromString.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\06. SumIntsFromString\obj\Debug\_06.SumIntsFromString.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Using Classes and objects homework\06. SumIntsFromString\obj\Debug\_06.SumIntsFromString.pdb

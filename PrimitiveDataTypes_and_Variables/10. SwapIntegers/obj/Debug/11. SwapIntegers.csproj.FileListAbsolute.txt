@@ -1,0 +1,6 @@
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\10. SwapIntegers\bin\Debug\_10.SwapIntegers.exe.config
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\10. SwapIntegers\bin\Debug\_10.SwapIntegers.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\10. SwapIntegers\bin\Debug\_10.SwapIntegers.pdb
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\10. SwapIntegers\obj\Debug\11. SwapIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\10. SwapIntegers\obj\Debug\_10.SwapIntegers.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\10. SwapIntegers\obj\Debug\_10.SwapIntegers.pdb

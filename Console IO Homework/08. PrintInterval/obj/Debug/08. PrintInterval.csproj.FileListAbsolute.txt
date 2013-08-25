@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\08. PrintInterval\bin\Debug\_08.PrintInterval.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\08. PrintInterval\bin\Debug\_08.PrintInterval.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\08. PrintInterval\bin\Debug\_08.PrintInterval.pdb
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\08. PrintInterval\obj\Debug\_08.PrintInterval.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\08. PrintInterval\obj\Debug\_08.PrintInterval.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\08. PrintInterval\bin\Debug\_08.PrintInterval.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\08. PrintInterval\obj\Debug\_08.PrintInterval.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\08. PrintInterval\obj\Debug\_08.PrintInterval.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\08. PrintInterval\bin\Debug\_08.PrintInterval.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\08. PrintInterval\bin\Debug\_08.PrintInterval.pdb

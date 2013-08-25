@@ -1,0 +1,12 @@
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\9. CharMap\bin\Debug\_9.CharMap.exe.config
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\9. CharMap\bin\Debug\_9.CharMap.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\9. CharMap\bin\Debug\_9.CharMap.pdb
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\9. CharMap\obj\Debug\9. CharMap.csprojResolveAssemblyReference.cache
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\9. CharMap\obj\Debug\_9.CharMap.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\9. CharMap\obj\Debug\_9.CharMap.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\9. CharMap\bin\Debug\_9.CharMap.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\9. CharMap\obj\Debug\_9.CharMap.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\9. CharMap\obj\Debug\_9.CharMap.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\9. CharMap\bin\Debug\_9.CharMap.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\9. CharMap\bin\Debug\_9.CharMap.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\9. CharMap\obj\Debug\9. CharMap.csprojResolveAssemblyReference.cache

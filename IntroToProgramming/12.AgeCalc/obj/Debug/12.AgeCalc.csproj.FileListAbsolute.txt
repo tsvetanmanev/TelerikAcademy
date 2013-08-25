@@ -1,0 +1,5 @@
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\12.AgeCalc\bin\Debug\12.AgeCalc.exe.config
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\12.AgeCalc\bin\Debug\12.AgeCalc.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\12.AgeCalc\bin\Debug\12.AgeCalc.pdb
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\12.AgeCalc\obj\Debug\12.AgeCalc.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\12.AgeCalc\obj\Debug\12.AgeCalc.pdb

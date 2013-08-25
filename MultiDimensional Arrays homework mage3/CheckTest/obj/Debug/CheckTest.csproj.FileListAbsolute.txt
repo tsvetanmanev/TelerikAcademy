@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\CheckTest\bin\Debug\CheckTest.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\CheckTest\bin\Debug\CheckTest.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\CheckTest\bin\Debug\CheckTest.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\CheckTest\obj\Debug\CheckTest.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\CheckTest\obj\Debug\CheckTest.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\CheckTest\obj\Debug\CheckTest.csprojResolveAssemblyReference.cache

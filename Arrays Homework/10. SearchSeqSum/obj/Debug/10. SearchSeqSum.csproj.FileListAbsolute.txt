@@ -1,0 +1,8 @@
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\10. SearchSeqSum\bin\Debug\_10.SearchSeqSum.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\10. SearchSeqSum\bin\Debug\_10.SearchSeqSum.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\10. SearchSeqSum\bin\Debug\_10.SearchSeqSum.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\10. SearchSeqSum\obj\Debug\_10.SearchSeqSum.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\10. SearchSeqSum\obj\Debug\_10.SearchSeqSum.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\10. SearchSeqSum\bin\Debug\_10.SearchSeqSum.exe.config
+C:\Users\student\Downloads\Arrays Homework mage3\10. SearchSeqSum\obj\Debug\_10.SearchSeqSum.exe
+C:\Users\student\Downloads\Arrays Homework mage3\10. SearchSeqSum\obj\Debug\_10.SearchSeqSum.pdb

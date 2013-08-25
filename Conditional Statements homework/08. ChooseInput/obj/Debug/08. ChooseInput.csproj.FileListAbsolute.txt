@@ -1,0 +1,8 @@
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\08. ChooseInput\bin\Debug\_08.ChooseInput.exe.config
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\08. ChooseInput\bin\Debug\_08.ChooseInput.exe
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\08. ChooseInput\bin\Debug\_08.ChooseInput.pdb
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\08. ChooseInput\obj\Debug\_08.ChooseInput.exe
+C:\Users\STUDENT-PC\documents\visual studio 2012\Projects\Conditional Statements homework\08. ChooseInput\obj\Debug\_08.ChooseInput.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\08. ChooseInput\bin\Debug\_08.ChooseInput.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\08. ChooseInput\obj\Debug\_08.ChooseInput.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Conditional Statements homework\08. ChooseInput\obj\Debug\_08.ChooseInput.pdb

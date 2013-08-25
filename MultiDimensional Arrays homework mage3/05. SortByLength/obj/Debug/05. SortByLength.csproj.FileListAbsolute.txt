@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\05. SortByLength\bin\Debug\_05.SortByLength.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\05. SortByLength\bin\Debug\_05.SortByLength.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\05. SortByLength\bin\Debug\_05.SortByLength.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\05. SortByLength\obj\Debug\05. SortByLength.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\05. SortByLength\obj\Debug\_05.SortByLength.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\MultiDimensional Arrays homework mage3\05. SortByLength\obj\Debug\_05.SortByLength.pdb

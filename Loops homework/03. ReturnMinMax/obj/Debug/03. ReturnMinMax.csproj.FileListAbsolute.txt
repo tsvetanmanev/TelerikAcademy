@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\03. ReturnMinMax\bin\Debug\_03.ReturnMinMax.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\03. ReturnMinMax\bin\Debug\_03.ReturnMinMax.exe
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\03. ReturnMinMax\bin\Debug\_03.ReturnMinMax.pdb
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\03. ReturnMinMax\obj\Debug\_03.ReturnMinMax.exe
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\03. ReturnMinMax\obj\Debug\_03.ReturnMinMax.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\03. ReturnMinMax\bin\Debug\_03.ReturnMinMax.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\03. ReturnMinMax\obj\Debug\_03.ReturnMinMax.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\03. ReturnMinMax\obj\Debug\_03.ReturnMinMax.pdb

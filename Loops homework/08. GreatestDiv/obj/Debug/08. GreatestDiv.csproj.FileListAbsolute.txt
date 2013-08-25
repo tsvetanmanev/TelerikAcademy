@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\08. GreatestDiv\bin\Debug\_08.GreatestDiv.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\08. GreatestDiv\bin\Debug\_08.GreatestDiv.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\08. GreatestDiv\bin\Debug\_08.GreatestDiv.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\08. GreatestDiv\obj\Debug\08. GreatestDiv.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\08. GreatestDiv\obj\Debug\_08.GreatestDiv.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\08. GreatestDiv\obj\Debug\_08.GreatestDiv.pdb

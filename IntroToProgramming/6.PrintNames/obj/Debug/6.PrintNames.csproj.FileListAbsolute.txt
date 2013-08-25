@@ -1,0 +1,6 @@
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\6.PrintNames\bin\Debug\6.PrintNames.exe.config
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\6.PrintNames\bin\Debug\6.PrintNames.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\6.PrintNames\bin\Debug\6.PrintNames.pdb
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\6.PrintNames\obj\Debug\6.PrintNames.csprojResolveAssemblyReference.cache
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\6.PrintNames\obj\Debug\6.PrintNames.exe
+C:\Users\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\IntroToProgramming\6.PrintNames\obj\Debug\6.PrintNames.pdb

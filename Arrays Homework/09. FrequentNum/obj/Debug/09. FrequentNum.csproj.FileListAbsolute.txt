@@ -1,0 +1,8 @@
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\09. FrequentNum\bin\Debug\_09.FrequentNum.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\09. FrequentNum\bin\Debug\_09.FrequentNum.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\09. FrequentNum\bin\Debug\_09.FrequentNum.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\09. FrequentNum\obj\Debug\_09.FrequentNum.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\09. FrequentNum\obj\Debug\_09.FrequentNum.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\09. FrequentNum\bin\Debug\_09.FrequentNum.exe.config
+C:\Users\student\Downloads\Arrays Homework mage3\09. FrequentNum\obj\Debug\_09.FrequentNum.exe
+C:\Users\student\Downloads\Arrays Homework mage3\09. FrequentNum\obj\Debug\_09.FrequentNum.pdb

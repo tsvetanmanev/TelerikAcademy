@@ -1,0 +1,6 @@
+c:\users\manev\documents\visual studio 2012\Projects\MultiDimensional Arrays homework mage3\01. PrintArrays\bin\Debug\_01.PrintArrays.exe.config
+c:\users\manev\documents\visual studio 2012\Projects\MultiDimensional Arrays homework mage3\01. PrintArrays\obj\Debug\01. PrintArrays.csprojResolveAssemblyReference.cache
+c:\users\manev\documents\visual studio 2012\Projects\MultiDimensional Arrays homework mage3\01. PrintArrays\bin\Debug\_01.PrintArrays.exe
+c:\users\manev\documents\visual studio 2012\Projects\MultiDimensional Arrays homework mage3\01. PrintArrays\bin\Debug\_01.PrintArrays.pdb
+c:\users\manev\documents\visual studio 2012\Projects\MultiDimensional Arrays homework mage3\01. PrintArrays\obj\Debug\_01.PrintArrays.exe
+c:\users\manev\documents\visual studio 2012\Projects\MultiDimensional Arrays homework mage3\01. PrintArrays\obj\Debug\_01.PrintArrays.pdb

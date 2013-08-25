@@ -1,0 +1,10 @@
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\12. PrintASCII\bin\Debug\_12.PrintASCII.exe.config
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\12. PrintASCII\bin\Debug\_12.PrintASCII.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\12. PrintASCII\bin\Debug\_12.PrintASCII.pdb
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\12. PrintASCII\obj\Debug\_12.PrintASCII.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\12. PrintASCII\obj\Debug\_12.PrintASCII.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\12. PrintASCII\bin\Debug\_12.PrintASCII.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\12. PrintASCII\obj\Debug\_12.PrintASCII.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\12. PrintASCII\obj\Debug\_12.PrintASCII.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\12. PrintASCII\bin\Debug\_12.PrintASCII.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\12. PrintASCII\bin\Debug\_12.PrintASCII.pdb

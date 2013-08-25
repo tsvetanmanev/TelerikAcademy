@@ -1,0 +1,5 @@
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\07. SelectionSortArray\bin\Debug\_07.SelectionSortArray.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\07. SelectionSortArray\bin\Debug\_07.SelectionSortArray.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\07. SelectionSortArray\bin\Debug\_07.SelectionSortArray.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\07. SelectionSortArray\obj\Debug\_07.SelectionSortArray.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\07. SelectionSortArray\obj\Debug\_07.SelectionSortArray.pdb

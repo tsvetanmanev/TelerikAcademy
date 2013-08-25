@@ -1,0 +1,12 @@
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\14. QuickSortStrings\bin\Debug\_14.QuickSortStrings.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\14. QuickSortStrings\bin\Debug\_14.QuickSortStrings.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\14. QuickSortStrings\bin\Debug\_14.QuickSortStrings.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\14. QuickSortStrings\obj\Debug\14. QuickSortStrings.csprojResolveAssemblyReference.cache
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\14. QuickSortStrings\obj\Debug\_14.QuickSortStrings.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\14. QuickSortStrings\obj\Debug\_14.QuickSortStrings.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\14. QuickSortStrings\bin\Debug\_14.QuickSortStrings.exe.config
+C:\Users\student\Downloads\Arrays Homework mage3\14. QuickSortStrings\obj\Debug\_14.QuickSortStrings.exe
+C:\Users\student\Downloads\Arrays Homework mage3\14. QuickSortStrings\obj\Debug\_14.QuickSortStrings.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\14. QuickSortStrings\bin\Debug\_14.QuickSortStrings.exe
+C:\Users\student\Downloads\Arrays Homework mage3\14. QuickSortStrings\bin\Debug\_14.QuickSortStrings.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\14. QuickSortStrings\obj\Debug\14. QuickSortStrings.csprojResolveAssemblyReference.cache

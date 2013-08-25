@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\04. DivFactorials\bin\Debug\_04.DivFactorials.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\04. DivFactorials\obj\Debug\04. DivFactorials.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\04. DivFactorials\bin\Debug\_04.DivFactorials.exe
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\04. DivFactorials\bin\Debug\_04.DivFactorials.pdb
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\04. DivFactorials\obj\Debug\_04.DivFactorials.exe
+c:\users\student\documents\visual studio 2012\Projects\Loops homework mage3\04. DivFactorials\obj\Debug\_04.DivFactorials.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\04. DivFactorials\bin\Debug\_04.DivFactorials.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\04. DivFactorials\obj\Debug\_04.DivFactorials.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Loops homework mage3\04. DivFactorials\obj\Debug\_04.DivFactorials.pdb

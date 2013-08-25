@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\07. DecimalReverse\bin\Debug\_07.DecimalReverse.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\07. DecimalReverse\bin\Debug\_07.DecimalReverse.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\07. DecimalReverse\bin\Debug\_07.DecimalReverse.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\07. DecimalReverse\obj\Debug\07. DecimalReverse.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\07. DecimalReverse\obj\Debug\_07.DecimalReverse.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\07. DecimalReverse\obj\Debug\_07.DecimalReverse.pdb

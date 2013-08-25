@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\01. IndexTimesFive\bin\Debug\_01.IndexTimesFive.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\01. IndexTimesFive\obj\Debug\01. IndexTimesFive.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\01. IndexTimesFive\bin\Debug\_01.IndexTimesFive.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\01. IndexTimesFive\bin\Debug\_01.IndexTimesFive.pdb
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\01. IndexTimesFive\obj\Debug\_01.IndexTimesFive.exe
+c:\users\student\documents\visual studio 2012\Projects\Arrays Homework mage3\01. IndexTimesFive\obj\Debug\_01.IndexTimesFive.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\01. IndexTimesFive\bin\Debug\_01.IndexTimesFive.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\01. IndexTimesFive\obj\Debug\_01.IndexTimesFive.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\01. IndexTimesFive\obj\Debug\_01.IndexTimesFive.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\01. IndexTimesFive\bin\Debug\_01.IndexTimesFive.exe.config
+C:\Users\student\Downloads\Arrays Homework mage3\01. IndexTimesFive\obj\Debug\_01.IndexTimesFive.exe
+C:\Users\student\Downloads\Arrays Homework mage3\01. IndexTimesFive\obj\Debug\_01.IndexTimesFive.pdb

@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\05. PrintGreaterNum\bin\Debug\_05.PrintGreaterNum.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\05. PrintGreaterNum\bin\Debug\_05.PrintGreaterNum.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\05. PrintGreaterNum\bin\Debug\_05.PrintGreaterNum.pdb
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\05. PrintGreaterNum\obj\Debug\_05.PrintGreaterNum.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\05. PrintGreaterNum\obj\Debug\_05.PrintGreaterNum.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\05. PrintGreaterNum\bin\Debug\_05.PrintGreaterNum.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\05. PrintGreaterNum\obj\Debug\_05.PrintGreaterNum.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\05. PrintGreaterNum\obj\Debug\_05.PrintGreaterNum.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\05. PrintGreaterNum\bin\Debug\_05.PrintGreaterNum.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\05. PrintGreaterNum\bin\Debug\_05.PrintGreaterNum.pdb

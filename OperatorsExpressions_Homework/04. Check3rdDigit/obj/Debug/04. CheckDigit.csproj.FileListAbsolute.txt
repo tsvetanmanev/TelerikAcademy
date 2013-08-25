@@ -1,0 +1,5 @@
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\04. Check3rdDigit\bin\Debug\_04.Check3rdDigit.exe.config
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\04. Check3rdDigit\bin\Debug\_04.Check3rdDigit.exe
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\04. Check3rdDigit\bin\Debug\_04.Check3rdDigit.pdb
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\04. Check3rdDigit\obj\Debug\_04.Check3rdDigit.exe
+C:\Users\student\documents\visual studio 2012\Projects\OperatorsExpressions_Homework\04. Check3rdDigit\obj\Debug\_04.Check3rdDigit.pdb

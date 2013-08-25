@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\02. CircleRadiusPerimeter\bin\Debug\_02.CircleRadiusPerimeter.exe.config
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\02. CircleRadiusPerimeter\bin\Debug\_02.CircleRadiusPerimeter.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\02. CircleRadiusPerimeter\bin\Debug\_02.CircleRadiusPerimeter.pdb
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\02. CircleRadiusPerimeter\obj\Debug\_02.CircleRadiusPerimeter.exe
+c:\users\student\documents\visual studio 2012\Projects\Console IO Homework\02. CircleRadiusPerimeter\obj\Debug\_02.CircleRadiusPerimeter.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\02. CircleRadiusPerimeter\bin\Debug\_02.CircleRadiusPerimeter.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\02. CircleRadiusPerimeter\obj\Debug\_02.CircleRadiusPerimeter.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\02. CircleRadiusPerimeter\obj\Debug\_02.CircleRadiusPerimeter.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\02. CircleRadiusPerimeter\bin\Debug\_02.CircleRadiusPerimeter.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\02. CircleRadiusPerimeter\bin\Debug\_02.CircleRadiusPerimeter.pdb

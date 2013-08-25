@@ -1,0 +1,8 @@
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\13. NullTypes\bin\Debug\_13.NullTypes.exe.config
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\13. NullTypes\bin\Debug\_13.NullTypes.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\13. NullTypes\bin\Debug\_13.NullTypes.pdb
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\13. NullTypes\obj\Debug\_13.NullTypes.exe
+C:\Users\Ceco\Documents\Visual Studio 2012\Projects\L2_PrimitiveDataTypes_and_Variables\13. NullTypes\obj\Debug\_13.NullTypes.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\13. NullTypes\bin\Debug\_13.NullTypes.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\13. NullTypes\obj\Debug\_13.NullTypes.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 1\L2_PrimitiveDataTypes_and_Variables\13. NullTypes\obj\Debug\_13.NullTypes.pdb

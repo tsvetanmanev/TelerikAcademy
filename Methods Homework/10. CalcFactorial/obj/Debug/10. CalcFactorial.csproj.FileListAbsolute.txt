@@ -1,0 +1,6 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\10. CalcFactorial\bin\Debug\_10.CalcFactorial.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\10. CalcFactorial\bin\Debug\_10.CalcFactorial.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\10. CalcFactorial\bin\Debug\_10.CalcFactorial.pdb
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\10. CalcFactorial\obj\Debug\10. CalcFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\10. CalcFactorial\obj\Debug\_10.CalcFactorial.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Methods Homework mage3\10. CalcFactorial\obj\Debug\_10.CalcFactorial.pdb

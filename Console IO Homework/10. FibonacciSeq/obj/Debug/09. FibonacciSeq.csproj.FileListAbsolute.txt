@@ -1,0 +1,3 @@
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10. FibonacciSeq\bin\Debug\_10.FibonacciSeq.exe.config
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10. FibonacciSeq\obj\Debug\_10.FibonacciSeq.exe
+C:\Users\Manev\Documents\Visual Studio 2012\Projects\Console IO Homework\10. FibonacciSeq\obj\Debug\_10.FibonacciSeq.pdb

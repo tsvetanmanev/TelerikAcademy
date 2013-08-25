@@ -1,0 +1,9 @@
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\11. BinarySearch\bin\Debug\_11.BinarySearch.exe.config
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\11. BinarySearch\bin\Debug\_11.BinarySearch.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\11. BinarySearch\bin\Debug\_11.BinarySearch.pdb
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\11. BinarySearch\obj\Debug\11. BinarySearch.csprojResolveAssemblyReference.cache
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+E:\Ceco\Google Диск\Telerik Software Academy\CSharp part 2\Arrays Homework mage3\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb
+C:\Users\student\Downloads\Arrays Homework mage3\11. BinarySearch\bin\Debug\_11.BinarySearch.exe.config
+C:\Users\student\Downloads\Arrays Homework mage3\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+C:\Users\student\Downloads\Arrays Homework mage3\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb
